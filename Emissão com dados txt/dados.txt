@@ -1,9 +1,0 @@
-login: 52084756000160
-senha: exemplo@senha
-codatv: 170303
-servico: Serviços prestados por ____
-tomador: 32285789000170
-municipio: blu
-valor: 55,46
-
- 
